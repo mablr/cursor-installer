@@ -4,12 +4,14 @@
 
 <h1 align="center">Cursor Installer</h1>
 
-![GitHub issues](https://img.shields.io/github/issues/mablr/cursor-installer)
+![Deprecated](https://img.shields.io/badge/Status-Deprecated-red)
 ![GitHub contributors](https://img.shields.io/github/contributors/mablr/cursor-installer)
 ![Licence MIT](https://img.shields.io/badge/License-MIT-blue)
 
 
 **A bash script for installing and managing [Cursor](https://cursor.sh/) on Debian/Ubuntu-based Linux distributions.**
+
+This project is deprecated as Cursor now provides native Debian packages (https://cursor.com/downloads).
 
 ## Quickstart
 
